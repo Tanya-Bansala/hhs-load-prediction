@@ -53,3 +53,6 @@ Key observations from the analysis:
 ## Conclusion
 
 This project shows how Machine Learning can help in understanding historical HHS care load trends and predicting future demand patterns. Through data analysis, visualizations, and forecasting, the project helped identify seasonal behavior, changing trends, and periods of increased system pressure. The Random Forest model provided useful forecasting results that can support better planning and decision-making.
+
+## Live Dashboard
+https://predictive-forecasting-uac.streamlit.app/
