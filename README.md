@@ -41,4 +41,15 @@ The project includes:
 ### Net System Pressure
 ![Net System Pressure](Graphs/net_system_pressure.png)  
 
+## Results
 
+The Random Forest forecasting model was able to capture important trends and seasonal patterns in the dataset. The comparison between actual and predicted values showed stable forecasting performance and improved prediction accuracy over the baseline approach.
+
+Key observations from the analysis:
+- Seasonal fluctuations were visible in the care load data
+- Certain periods showed increased system pressure
+- Forecast trends indicated changing demand patterns over time
+
+## Conclusion
+
+This project shows how Machine Learning can help in understanding historical HHS care load trends and predicting future demand patterns. Through data analysis, visualizations, and forecasting, the project helped identify seasonal behavior, changing trends, and periods of increased system pressure. The Random Forest model provided useful forecasting results that can support better planning and decision-making.
